@@ -90,7 +90,7 @@ mobile = "692 40 56 84"
 email = "Marisamiar@outlook.com"
 location = "Zaragoza, España"
 # copyright
-copyright = "| copyright & copy; 2022  Todos derechos reservados |"
+copyright = "| Copyright 2022 -  Todos derechos reservados |"
 
   # Preloader
   [params.preloader]
