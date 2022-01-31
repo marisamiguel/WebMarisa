@@ -5,9 +5,9 @@ draft: false
 
 # meta description
 description: "curriculum vitae, posts de mi web personal"
-tags: ["post", "cv", "blog","descripcion"]
+tags: ["post", "cv", "blog","descripcion", "formacion"]
 # type
-type : "blog"
+type : "blog "
 # image
 image: "images/portf.png"
 ---
