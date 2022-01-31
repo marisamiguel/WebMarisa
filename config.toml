@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://marisamiguel.github.io/MarisaMiar/"
+baseURL = "https://marisamiguel.github.io/WebMarisa/"
 languageCode = "en-us"
 title = "Marisa Miguel Arnal | Web "
 theme = "liva-hugo"
