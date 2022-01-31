@@ -24,9 +24,6 @@ type: "post"
 ---
 # PERFIL                                  
 
-
-Diplomada en Terapia Ocupacional   E.U Ciencias de la Salud                    2000/2004 
-
 Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2019/2022 
                                                                       
 # FRONTEND & BACKEND                                   
