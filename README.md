@@ -24,11 +24,11 @@ El template usado es el de LIVA:
   
 ## Local Development
 
-# clone the repository
+#### clone the repository
 git clone git@github.com:gethugothemes/liva-hugo.git
 
-# cd in the project directory
+#### cd in the project directory
 $ cd liva-hugo/exampleSite/
 
-# Start local dev server
+#### Start local dev server
 $ hugo server --themesDir ../..
