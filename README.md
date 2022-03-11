@@ -12,15 +12,15 @@ El template usado es el de LIVA:
 >[LIVA TEMPLATES](https://github.com/gethugothemes/liva-hugo)
 
 ## Features
-  Google analytics support
-  CSS and JS bundle with hugo pipe
-  Netlify settings predefine
-  Contact form Support
-  Search by fuse.js
-  GDPR consent enable
-  Google page speed optimized ( 77% )
-  Open graph meta tag
-  Twitter card meta tag
+  - Google analytics support
+  - CSS and JS bundle with hugo pipe
+  - Netlify settings predefine
+  - Contact form Support
+  - Search by fuse.js
+  - GDPR consent enable
+  - Google page speed optimized ( 77% )
+  - Open graph meta tag
+  - Twitter card meta tag
   
 ## Local Development
 
