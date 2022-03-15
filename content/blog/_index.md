@@ -19,6 +19,10 @@ Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2
 # FRONTEND & BACKEND                                   
 
 Conocimientos en diferentes tipos de tecnologías:
+
+Las *bases de datos* más utilizadas en base a su tipología son:
+
+- Relacionales: MySQL, MariaDB, PostgreSQL, Oracle. 
   
 - Tecnologías Frontend: 
  Lenguaje de Marcas HTML, CSS,Sintaxis Markdown, pre procesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**.
@@ -28,9 +32,7 @@ Lenguajes de scripting:Python,JavaScript.
 Frameworks: Django y CMS Wagtail (Python).
 Lenguajes funcionales:Java
 
-Las *bases de datos* más utilizadas en base a su tipología son:
 
-- Relacionales: MySQL, MariaDB, PostgreSQL, Oracle.
 
 # FORMACIÓN ACADÉMICA
 
