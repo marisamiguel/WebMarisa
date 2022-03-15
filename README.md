@@ -6,9 +6,11 @@ Hugo es uno de los generadores de sitios estáticos de código abierto más popu
 
 En este proyecto se refleja una página Web realizada con HUGO que alberga mi **Portfolio** en tres páginas:
 
--CARTA DE PRESENTACIÓN
--Dentro de POST hay varias enlaces; uno de ellos encontraréis mi CV y otro de competencias y TRABAJO de desarrollo. 
--CONTACTO
+*CARTA DE PRESENTACIÓN  
+
+*Dentro de POST hay varias enlaces; uno de ellos encontraréis mi CV y otro de competencias y TRABAJO de desarrollo. 
+
+*CONTACTO
 
 El template usado es el de LIVA, de entre los destacados como mejores en el 2022:
 
