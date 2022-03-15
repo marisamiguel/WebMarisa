@@ -12,11 +12,11 @@ type : "blog "
 image: "images/portf.png"
 ---
 
- > # PERFIL                                  
+ ># PERFIL                                  
 
 Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2019/2022 
                                                                       
- > # FRONTEND & BACKEND                                   
+ ># FRONTEND & BACKEND                                   
 
 Conocimientos en diferentes tipos de tecnologías:
 
@@ -32,7 +32,7 @@ Lenguajes de scripting:Python,JavaScript.
 Frameworks: Django y CMS Wagtail (Python).
 Lenguajes funcionales:Java
 
- > # FORMACIÓN ACADÉMICA
+ ># FORMACIÓN ACADÉMICA
 
 **2005/2006 PRÁCTICAS INTERNACIONALES Y FORMACIÓN DE TERAPIA OCUPACIONAL EN LA ESPECIALIDAD DE INTEGRACIÓN SENSORIAL** 
 
@@ -52,7 +52,7 @@ Formación y experiencia en repositorios (git)
 
 Liderazgo de equipos y reuniones de trabajo
 
- > # VIDA LABORAL
+ ># VIDA LABORAL
 
 
 **2007/2010 TERAPEUTA OCUPACIONAL Residencia tercera edad "Las Buganvillas", Zaragoza**. 
@@ -74,14 +74,14 @@ Liderazgo de equipos y reuniones de trabajo
 -Coordinación con otros proyectos,espacios y puntos de encuentro
 
 
- > # IDIOMAS
+ ># IDIOMAS
 
 **Inglés**  > Nivel Medio hablado y escrito
 
 **Francés** > Nivel básico hablado y escrito
 
 
- > # OTROS DATOS DE INTERÉS
+ ># OTROS DATOS DE INTERÉS
 
 | Disponibilidad Inmediata | Carnet de conducir |
 | --------------- |------------------
