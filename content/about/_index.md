@@ -31,19 +31,19 @@ Habituada a trabajar con sistemas de control de versiones como Git
   
 Conocimientos en diferentes tipos de tecnologías:
   
--  Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como **BOOSTRAP**. Frameworks y librerías **JavaScript**: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**
+-  Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS , **BOOSTRAP**. Frameworks y librerías **JavaScript**; con el fin de mejorar el desarrollo de JavaScript serían: **Angular**
 
 - Tecnologías Backend: Lenguajes de scripting:**Python,JavaScript**
-Frameworks:**Django, **Wagtail (Python)**
+Frameworks:**Django**, **Wagtail (Python)**
 Lenguajes funcionales:**Java**
 
-- Las *bases de datos* más utilizadas en base a su tipología son:
+Las *bases de datos* más utilizadas en base a su tipología son:
 
-- Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
+Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
 
 Estaría encantada de tener noticias suyas indicándome si están interesados en mi perfil.En cualquier caso, quedo a su disposición para cualquier duda que tengan.
 
-Un saludo-
+Un saludo
 
 
 
