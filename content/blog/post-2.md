@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/portf.png"
 
 # meta description
-description: "desarrollo de páginas web"
+description: "Desarrollo de App Web"
 
 # taxonomies
 categories: 
@@ -22,30 +22,30 @@ tags:
 # post type
 type: "post"
 ---
-# PERFIL                                  
+> # PERFIL                                  
 
 Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2019/2022 
                                                                       
-# FRONTEND & BACKEND                                   
+> # FRONTEND & BACKEND                                   
 
 Conocimientos en diferentes tipos de tecnologías:
   
- - Tecnologías Frontend: 
-  Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: Angular, Vuejs y React
+- Tecnologías Frontend: 
+  Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**.
 
 - Tecnologías Backend:
-Lenguajes de scripting:Python,JavaScript (Nodejs)
-PHP.Frameworks:Django (Python)
+Lenguajes de scripting:**Python,JavaScript**.
+Frameworks:**Django** y **Wagtail (Python)**
 Lenguajes funcionales:Java
 
 Las *bases de datos* más utilizadas en base a su tipología son:
 
 - Relacionales: MySQL, MariaDB, PostgreSQL, Oracle.
-- NoSQL: MongoDB
+
 
 ![logos](../../images/post-4.png)
 
-# FORMACIÓN ACADÉMICA
+> # FORMACIÓN ACADÉMICA
 
 **2005/2006 PRÁCTICAS INTERNACIONALES Y FORMACIÓN DE TERAPIA OCUPACIONAL EN LA ESPECIALIDAD DE INTEGRACIÓN SENSORIAL** 
 
@@ -65,7 +65,7 @@ Formación y experiencia en repositorios (git)
 
 Liderazgo de equipos y reuniones de trabajo
 
-# VIDA LABORAL
+> # VIDA LABORAL
 
 
 **2007/2010 TERAPEUTA OCUPACIONAL Residencia tercera edad "Las Buganvillas", Zaragoza**. 
@@ -87,14 +87,14 @@ Liderazgo de equipos y reuniones de trabajo
 -Coordinación con otros proyectos,espacios y puntos de encuentro
 
 
-# IDIOMAS
+> # IDIOMAS
 
 **Inglés** > Nivel Medio hablado y escrito
 
 **Francés** > Nivel básico hablado y escrito
 
 
-# OTROS DATOS DE INTERÉS
+ > # OTROS DATOS DE INTERÉS
 
 | Disponibilidad Inmediata | Carnet de conducir |
 | --------------- |------------------
