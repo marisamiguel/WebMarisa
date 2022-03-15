@@ -40,12 +40,12 @@ Lenguajes funcionales:**Java**
 
 - Las *bases de datos* más utilizadas en base a su tipología son:
 
-Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
+- Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
 
 
 Estaría encantada de tener noticias suyas indicándome si están interesados en mi perfil.En cualquier caso, quedo a su disposición para cualquier duda que tengan.
 
-Un saludo
+Un saludo-
 
 
 
