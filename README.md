@@ -29,7 +29,7 @@ El template usado es el de LIVA, de entre los destacados como mejores en el 2022
 ## Dependencias 
  Instalación de Git 
  Instalación de Hugo
- [HUGO TUTORIAL]:https://gohugo.io/
+ [HUGO TUTORIAL](https://gohugo.io/getting-started/quick-start/)
   
 ## Local Development
 
