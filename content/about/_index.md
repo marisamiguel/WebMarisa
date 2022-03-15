@@ -11,23 +11,23 @@ description: "Sobre mí"
 
 # type
 type : "about"
-tags: ["Sobre mí", "Personal", "Carta de presentación","Desarrollo de App Webs"]
+tags: ["Sobre mí","Carta de presentación","Desarrollo de App Webs","DAWS"]
 ---
 
 
 
-**EL MUNDO NECESITA GENTE QUE AME LO QUE HACE**
+> **EL MUNDO NECESITA GENTE QUE AME LO QUE HACE**
  
 Hola soy Marisa Miguel Arnal, Desarrolladora de Aplicaciones Web.   
 
-Durante mis 19 años de vida profesional he podido desarrollar mi trabajo por vocación como Terapeuta en diferentes centros y asociaciones de Zaragoza, así como compaginar este trabajo con el que tengo en la actualidad y el cual llevo desarrollando 14 años para la [Sociedad Cooperativa Prides](http://www.prides.es/) como Técnico Animación SocioCultural en el proyecto [CJ Juslibol](https://cjjuslibolelgalacho.blogspot.com/) 2007/2021.
+Durante mis 19 años de vida profesional he podido desarrollar mi trabajo por vocación como Terapeuta en diferentes centros y asociaciones de Zaragoza; así como compaginar este trabajo con el que tengo en la actualidad y el cual llevo desarrollando 14 años para la [Sociedad Cooperativa Prides](http://www.prides.es/) como Técnico Animación SocioCultural en el proyecto [CJ Juslibol](https://cjjuslibolelgalacho.blogspot.com/) 2007/2021.
 
 
-Mi largo recorrido profesional en la gestión de proyectos;la capacidad y/o habilidades completas adquiridas durante mi experiencia, incluyendo la colaboración  y resolución de problemas.Así como, las competencias adquiridas durante mi grado y continua formación a posteriori en diferentes tecnologías tanto frontend como backend me permiten resaltar algunas de las características de mi perfil:
+Mi largo recorrido profesional en la gestión de proyectos,la capacidad y/o habilidades completas adquiridas durante mi experiencia, incluyendo la colaboración  y resolución de problemas.Así como las competencias adquiridas durante mi grado, y continua formación a posteriori en diferentes tecnologías tanto frontend como backend me permiten resaltar algunas de las características de mi perfil:
 
-Experiencia y desarrollo de trabajo como desarrolladora de paginas web, blogs.
+Experiencia y desarrollo de trabajo como Desarrolladora de Apliaciones Web.
 
-Habituada a trabajar con sistemas de control de versiones como Git
+Habituada a trabajar con sistemas de control de versiones como Git.
   
 Conocimientos en diferentes tipos de tecnologías:
   
@@ -37,7 +37,7 @@ Conocimientos en diferentes tipos de tecnologías:
 Frameworks:**Django**, **Wagtail (Python)**
 Lenguajes funcionales:**Java**
 
-Las *bases de datos* más utilizadas en base a su tipología son:
+- Las *bases de datos* más utilizadas en base a su tipología son:
 
 Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
 
