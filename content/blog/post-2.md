@@ -42,7 +42,6 @@ Las *bases de datos* más utilizadas en base a su tipología son:
 
 - Relacionales: MySQL, MariaDB, PostgreSQL, Oracle.
 
-
 ![logos](../../images/post-4.png)
 
 > # FORMACIÓN ACADÉMICA
