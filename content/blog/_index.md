@@ -32,8 +32,6 @@ Lenguajes de scripting:Python,JavaScript.
 Frameworks: Django y CMS Wagtail (Python).
 Lenguajes funcionales:Java
 
-
-
 # FORMACIÓN ACADÉMICA
 
 **2005/2006 PRÁCTICAS INTERNACIONALES Y FORMACIÓN DE TERAPIA OCUPACIONAL EN LA ESPECIALIDAD DE INTEGRACIÓN SENSORIAL** 
