@@ -7,11 +7,11 @@ draft: false
 image: "images/marisamiguel.png"
 
 # meta description
-description: "Sobre mi"
+description: "Sobre mí"
 
 # type
 type : "about"
-tags: ["Sobre mí", "Personal", "Carta de presentación"]
+tags: ["Sobre mí", "Personal", "Carta de presentación","Desarrollo de App Webs"]
 ---
 
 
@@ -21,27 +21,27 @@ tags: ["Sobre mí", "Personal", "Carta de presentación"]
   
 Hola soy Marisa Miguel Arnal, Desarrolladora de Aplicaciones Web.   
 
-Durante mis 19 años de vida profesional he podido desarrollar mi trabajo por vocación como Terapeuta en diferentes centros y asociaciones de Zaragoza, así como compaginar este trabajo con el que tengo en la actualidad y el cual llevo desarrollando 14 años para la [Sociedad Cooperativa Prides](http://www.prides.es/) como Técnico Animación SocioCultural en el proyecto [CJ Juslibol](https://cjjuslibolelgalacho.blogspot.com/) 2007/2021.
+    Durante mis 19 años de vida profesional he podido desarrollar mi trabajo por vocación como Terapeuta en diferentes centros y asociaciones de Zaragoza, así como compaginar este trabajo con el que tengo en la actualidad y el cual llevo desarrollando 14 años para la [Sociedad Cooperativa Prides](http://www.prides.es/) como Técnico Animación SocioCultural en el proyecto [CJ Juslibol](https://cjjuslibolelgalacho.blogspot.com/) 2007/2021.
 
 
-Mi largo recorrido profesional en la gestión de proyectos;la capacidad y/o habilidades completas adquiridas durante mi experiencia, incluyendo la colaboración  y resolución de problemas.Así como, las competencias adquiridas durante mi grado y continua formación a posteriori en diferentes tecnologías tanto frontend como backend me permiten resaltar algunas de las características de mi perfil:
+    Mi largo recorrido profesional en la gestión de proyectos;la capacidad y/o habilidades completas adquiridas durante mi experiencia, incluyendo la colaboración  y resolución de problemas.Así como, las competencias adquiridas durante mi grado y continua formación a posteriori en diferentes tecnologías tanto frontend como backend me permiten resaltar algunas de las características de mi perfil:
 
-Experiencia y desarrollo de trabajo como desarrolladora de paginas web, blogs.
+    Experiencia y desarrollo de trabajo como desarrolladora de paginas web, blogs.
 
-Habituada a trabajar con sistemas de control de versiones como Git
+    Habituada a trabajar con sistemas de control de versiones como Git
   
-Conocimientos en diferentes tipos de tecnologías:
+    Conocimientos en diferentes tipos de tecnologías:
   
-- Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como **BOOSTRAP**. Frameworks y librerías **JavaScript**: con el fin de mejorar el desarrollo de JavaScript serían: **Angular, Vuejs y React**
+-  Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como **BOOSTRAP**. Frameworks y librerías **JavaScript**: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**
 
-- Tecnologías Backend: Lenguajes de scripting:**Python,JavaScript (Nodejs)**
-PHP.Frameworks:**Django (Python)**
+- Tecnologías Backend: Lenguajes de scripting:**Python,JavaScript**
+Frameworks:**Django, **Wagtail (Python)**
 Lenguajes funcionales:**Java**
 
 - Las *bases de datos* más utilizadas en base a su tipología son:
 
 Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
-NoSQL: **MongoDB**
+
 
 Estaría encantada de tener noticias suyas indicándome si están interesados en mi perfil.En cualquier caso, quedo a su disposición para cualquier duda que tengan.
 
