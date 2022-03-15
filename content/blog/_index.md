@@ -21,17 +21,16 @@ Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2
 Conocimientos en diferentes tipos de tecnologías:
   
  - Tecnologías Frontend: 
-  Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: Angular, Vuejs y React
+  Lenguaje de Marcas HTML, CSS,sintaxis Markdown, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: Angular
 
 - Tecnologías Backend:
-Lenguajes de scripting:Python,JavaScript (Nodejs)
-PHP.Frameworks:Django (Python)
+Lenguajes de scripting:Python,JavaScript.
+Frameworks:Django y CMS Wagtail (Python).
 Lenguajes funcionales:Java
 
 Las *bases de datos* más utilizadas en base a su tipología son:
 
 - Relacionales: MySQL, MariaDB, PostgreSQL, Oracle.
-- NoSQL: MongoDB
 
 
 # FORMACIÓN ACADÉMICA
