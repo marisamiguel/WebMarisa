@@ -25,9 +25,9 @@ Durante mis 19 años de vida profesional he podido desarrollar mi trabajo por vo
 
 Mi largo recorrido profesional en la gestión de proyectos,la capacidad y/o habilidades completas adquiridas durante mi experiencia, incluyendo la colaboración  y resolución de problemas.Así como las competencias adquiridas durante mi grado en "Desarrollo de Aplicaciones Web", y continua formación  en diferentes tecnologías tanto frontend como backend me permiten resaltar algunas de las características de mi perfil:
 
-Experiencia y desarrollo de trabajo como Desarrolladora de Apliaciones Web.
+Experiencia y desarrollo de trabajo como Desarrolladora de Aplicaciones Web.
 
-Habituada a trabajar con sistemas de control de versiones como Git.
+Habituada a trabajar con sistemas de control de versiones distribuido **Git**.
   
 Conocimientos en diferentes tipos de tecnologías:
   
