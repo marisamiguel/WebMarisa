@@ -2,215 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Marisa Miguel Arnal | Web </title>
-    <link>https://marisamiguel.github.io/MarisaMiar/tags/</link>
+    <link>https://marisamiguel.github.io/WebMarisa/tags/</link>
     <description>Recent content in Tags on Marisa Miguel Arnal | Web </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://marisamiguel.github.io/MarisaMiar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://marisamiguel.github.io/WebMarisa/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/blog/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/blog/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/blog/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carta de presentación</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/carta-de-presentaci%C3%B3n/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/carta-de-presentaci%C3%B3n/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/carta-de-presentaci%C3%B3n/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/carta-de-presentaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correo</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/correo/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/correo/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/correo/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/correo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cv</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/cv/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/cv/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/cv/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo de App Webs</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/desarrollo-de-app-webs/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/desarrollo-de-app-webs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>descripcion</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/descripcion/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/descripcion/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/descripcion/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/descripcion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dirección</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/direcci%C3%B3n/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/direcci%C3%B3n/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/direcci%C3%B3n/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/direcci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formacion</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/formacion/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/formacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Móvil</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/m%C3%B3vil/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/m%C3%B3vil/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/m%C3%B3vil/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/m%C3%B3vil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/personal/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/personal/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/personal/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/post/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/post/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/post/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sobre mí</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/sobre-m%C3%AD/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/sobre-m%C3%AD/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/sobre-m%C3%AD/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/sobre-m%C3%AD/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adobe Photoshop</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/adobe-photoshop/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/adobe-photoshop/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/adobe-photoshop/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/adobe-photoshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/css/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/css/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/css/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/digital/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/digital/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/digital/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/digital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diseño</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/dise%C3%B1o/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/dise%C3%B1o/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/dise%C3%B1o/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/dise%C3%B1o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edición</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/edici%C3%B3n/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/edici%C3%B3n/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/edici%C3%B3n/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/edici%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fotografía</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/fotograf%C3%ADa/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/fotograf%C3%ADa/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/fotograf%C3%ADa/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/fotograf%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fotos</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/fotos/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/fotos/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/fotos/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/fotos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/html/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/html/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light Room</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/light-room/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/light-room/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/light-room/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/light-room/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tecnologías Backend</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/tecnolog%C3%ADas-backend/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-backend/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/tecnolog%C3%ADas-backend/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-backend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tecnologías Frontend</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/tecnolog%C3%ADas-frontend/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-frontend/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/tecnolog%C3%ADas-frontend/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-frontend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vida Laboral</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/vida-laboral/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/vida-laboral/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/vida-laboral/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/vida-laboral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://marisamiguel.github.io/MarisaMiar/tags/web/</link>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/web/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/MarisaMiar/tags/web/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/web/</guid>
       <description></description>
     </item>
     
