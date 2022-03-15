@@ -27,9 +27,10 @@ El template usado es el de LIVA, de entre los destacados como mejores en el 2022
   - Twitter card meta tag
 
 ## Dependencias 
- Instalación de Git 
- Instalación de Hugo
- [HUGO TUTORIAL](https://gohugo.io/getting-started/quick-start/)
+ >Instalación de Git  
+ >[GIT-TUTORIAL] (https://git-scm.com/downloads)
+ >Instalación de Hugo
+ [HUGO-TUTORIAL](https://gohugo.io/getting-started/quick-start/)
   
 ## Local Development
 
