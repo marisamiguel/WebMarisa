@@ -29,8 +29,8 @@ El template usado es el de LIVA, de entre los destacados como mejores en el 2022
 ## Dependencias 
  Instalación de Git 
  
- [HUGO FRAMEWORK][hugo]
- [hugo] : https://gohugo.io
+ [framework][hugo]
+ [hugo]:https://gohugo.io/
   
 ## Local Development
 
