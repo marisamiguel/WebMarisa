@@ -20,8 +20,8 @@ Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2
 
 Conocimientos en diferentes tipos de tecnologías:
   
- - Tecnologías Frontend: 
-  Lenguaje de Marcas HTML, CSS,sintaxis Markdown, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: Angular
+- Tecnologías Frontend: 
+ Lenguaje de Marcas HTML, CSS,sintaxis Markdown, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: Angular.
 
 - Tecnologías Backend:
 Lenguajes de scripting:Python,JavaScript.
