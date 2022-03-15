@@ -5,7 +5,7 @@ draft: false
 
 # meta description
 description: "curriculum vitae, posts de mi web personal"
-tags: ["post", "cv", "blog","descripcion", "formacion"]
+tags: ["Post", "CV", "Blog","Descripcion", "Formacion"]
 # type
 type : "blog "
 # image
@@ -31,7 +31,6 @@ Lenguajes funcionales:Java
 Las *bases de datos* más utilizadas en base a su tipología son:
 
 - Relacionales: MySQL, MariaDB, PostgreSQL, Oracle.
-
 
 # FORMACIÓN ACADÉMICA
 
