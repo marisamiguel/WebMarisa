@@ -16,7 +16,7 @@ tags: ["Sobre mí","Carta de presentación","Desarrollo de App Webs","DAWS"]
 
 
 
-**EL MUNDO NECESITA GENTE QUE AME LO QUE HACE**
+> **EL MUNDO NECESITA GENTE QUE AME LO QUE HACE**
  
 Hola soy Marisa Miguel Arnal, Desarrolladora de Aplicaciones Web.   
 
