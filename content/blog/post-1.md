@@ -21,8 +21,34 @@ tags:
   - "Light Room"
 
 # post type
-type: ""
+type: "post"
 ---
+
+> ### SERVICIOS
+
+
+### Descubre en qué puedo ayudarte
+
+**Con el fin de que sea más fácil elegir el servicio que más se adecue a ti, he clasificado lo que ofrezco en 4 bloques**: 
+
+### **1º Web** 
+ > - ##### Diseño de Páginas Web
+ > -  ##### Tiendas Online
+ > -  ##### Mantenimiento 
+ > -  ##### Alojamiento Web
+
+### **2º Marketing Digital** 
+##### Incluye las diferentes técnicas como:
+> -  ##### Posicionamiento web SEO, SEM y Social Media
+  
+### **3º Diseño gráfico** 
+  > - ##### Logotipos 
+  > - ##### Branding 
+  > - ##### Tarjetas de presentación y otros servicios gráficos e imprenta 
+  > - ##### Multimedia (fotografía y vídeo).
+
+**Si tienes un proyecto en mente y no sabes por dónde empezar, te asesore sobre lo que realmente necesitas y resolviendo tus dudas sin compromiso. Si por el contrario tienes claro lo que quieres, adelante ¡ya puedes escoger el servicio!**.
+
 
 
 ### Pintar con Luz
@@ -60,4 +86,3 @@ Os dejo el enlace al conocido canal de YouTube de Domestika, un lugar donde enco
 Cada viaje creativo empieza en algún lugar. 
 
 [DOMÉSTICA](https://www.youtube.com/channel/UCKbtk1ZAH5g4ZBYs0-10LFA)
-
