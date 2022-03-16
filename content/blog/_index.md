@@ -4,7 +4,7 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # meta description
-description: "curriculum vitae, posts de mi web personal"
+description: "Curriculum Vitae, Posts de mi web personal"
 tags: ["Post", "CV", "Blog","Descripcion", "Formacion"]
 # type
 type : "blog "

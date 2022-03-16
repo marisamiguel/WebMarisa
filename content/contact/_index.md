@@ -12,5 +12,5 @@ description: "Información de contacto"
 image: "images/contact.png"
 # type
 type : "contact"
-tags: ["Correo", "Móvil", "Dirección"]
+tags: ["E-mail", "Móvil", Contacto"]
 ---
