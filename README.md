@@ -68,7 +68,7 @@ Windows HUGO - INSTALACION
     > Nuevo repositorio en mi GitHub
     > git remote add https://github.com/EmielH/tale-hugo/mi-sitio.git
     > git push -u origin main
-~~~
+
 
     ** Generar sitios y publicarlos en cualquier Hosting **
 
@@ -78,7 +78,7 @@ Windows HUGO - INSTALACION
 Cada vez que realicemos una modificación habrá que realizar le build de hugo -d docs.
     > Hugo 
     > Hugo -d docs
-    ~~~
+  
 
 **Personalizacion de temas de Hugo**
 
