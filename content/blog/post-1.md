@@ -1,5 +1,5 @@
 ---
-title: "FOTOGRAFÍA | DESARROLLO Y DISEÑO WEB "
+title: "FOTOGRAFÍA | DESARROLLO Y DISEÑO WEB | SERVICIOS "
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -51,7 +51,7 @@ type: "post"
 **Si tienes un proyecto en mente y no sabes por dónde empezar, te asesore sobre lo que realmente necesitas y resolviendo tus dudas sin compromiso. Si por el contrario tienes claro lo que quieres, adelante ¡ya puedes escoger el servicio!**.
 
 **************************************
-
+> ### PROYECTOS
 
 ### Pintar con Luz
 
