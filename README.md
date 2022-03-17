@@ -47,7 +47,7 @@ $ hugo server --themesDir ../..
 Windows HUGO - INSTALACION
 --------------------------
 
-~~~
+
 - Instalar Hugo
 - Crear un nuevo proyecto de sitio web
 - Instalar un tema para desarrollo rápido
@@ -68,6 +68,7 @@ Windows HUGO - INSTALACION
     > Nuevo repositorio en mi GitHub
     > git remote add https://github.com/EmielH/tale-hugo/mi-sitio.git
     > git push -u origin main
+~~~
 
     ** Generar sitios y publicarlos en cualquier Hosting **
 
