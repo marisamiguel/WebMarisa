@@ -79,7 +79,7 @@ Cada vez que realicemos una modificación habrá que realizar le build de hugo -
 
 **Personalizacion de temas de Hugo**
 
-[PERSONALIZACIÓN DE HUGO]: (http://desarrolloweb.com/articulos/personalizar-tema-hugo/)
+[PERSONALIZACIÓN DE HUGO](http://desarrolloweb.com/articulos/personalizar-tema-hugo/)
     
     
 
@@ -88,11 +88,7 @@ DOWNLOADS
 Windows HUGO - RELEASES
 --------------------------
 El enlace para las [actualizaciones][hugo] para las actualizaciones de Hugo   
-[hugo]: http://github.com/gohugoio/hugo/releases/
+[HUGO RELEASES ](http://github.com/gohugoio/hugo/releases/)
 
-Ejemplo de links con nombres de referencia:
-Me llamo Javier Crist�bal y tengo un blog sobre [productividad mac][blog].
 
-En dicha [web][blog] recopilo art�culos sobre todo lo relacionado con automatizaci�n, gesti�n y eficiencia.
-[blog]: http://limni.net/blog/
 
