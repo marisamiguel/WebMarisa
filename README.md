@@ -54,7 +54,7 @@ Windows HUGO - INSTALACION
 - Generar contenido nuevo, páginas y entradas
 - Llevar a producción
 - Publicar en GitHub Pages
-~~~
+
 
     > choco install hugo -confirm
     > hugo new version
@@ -71,11 +71,13 @@ Windows HUGO - INSTALACION
 
     ** Generar sitios y publicarlos en cualquier Hosting **
 
-La carpeta Public es para  subir a a cualquier Hosting , GitHubPages no me permite usar esta carpeta sino que tiene que ser con la carpeta Docs.
+-La carpeta Public es para  subir a a cualquier Hosting 
+-GitHubPages no me permite usar esta carpeta sino que tiene que ser con la carpeta Docs.
 
 Cada vez que realicemos una modificación habrá que realizar le build de hugo -d docs.
     > Hugo 
     > Hugo -d docs
+    ~~~
 
 **Personalizacion de temas de Hugo**
 
