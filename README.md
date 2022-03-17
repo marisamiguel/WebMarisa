@@ -34,15 +34,6 @@ El template usado es el de LIVA, de entre los destacados como mejores en el 2022
   
 ## Desarrollo Local
 
-#### clone the repository
-git clone git@github.com:gethugothemes/liva-hugo.git
-
-#### cd in the project directory
-$ cd liva-hugo/exampleSite/
-
-#### Start local dev server
-$ hugo server --themesDir ../..
-
 
 Windows HUGO - INSTALACION
 --------------------------
@@ -79,7 +70,17 @@ Cada vez que realicemos una modificación habrá que realizar le build de hugo -
     > Hugo 
     > Hugo -d docs
   
+Windows HUGO - INSTALACION LIVA
+--------------------------
 
+#### clone the repository
+git clone git@github.com:gethugothemes/liva-hugo.git
+
+#### cd in the project directory
+$ cd liva-hugo/exampleSite/
+
+#### Start local dev server
+$ hugo server --themesDir ../..
 **Personalizacion de temas de Hugo**
 
 [PERSONALIZACIÓN DE HUGO](http://desarrolloweb.com/articulos/personalizar-tema-hugo/)
