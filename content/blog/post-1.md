@@ -1,5 +1,5 @@
 ---
-title: "FOTOGRAFÍA | DISEÑO "
+title: "FOTOGRAFÍA | DESARROLLO Y DISEÑO WEB "
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/pro.png"
 
 # meta description
-description: "fotografía"
+description: "Diseño y Desarrollo Web"
 
 # taxonomies
 categories:
@@ -31,6 +31,7 @@ type: "post"
 
 **Con el fin de que sea más fácil elegir el servicio que más se adecue a ti, he clasificado lo que ofrezco en 4 bloques**: 
 
+![image](../../images/web.png)
 ### **1º Web** 
  > - ##### Diseño de Páginas Web
  > -  ##### Tiendas Online
@@ -49,6 +50,7 @@ type: "post"
 
 **Si tienes un proyecto en mente y no sabes por dónde empezar, te asesore sobre lo que realmente necesitas y resolviendo tus dudas sin compromiso. Si por el contrario tienes claro lo que quieres, adelante ¡ya puedes escoger el servicio!**.
 
+**************************************
 
 
 ### Pintar con Luz
