@@ -19,7 +19,7 @@ tags:
   
 
 # post type
-type: "desarrollo apps web"
+type: ""
 ---
 ```
 SERVICIOS
