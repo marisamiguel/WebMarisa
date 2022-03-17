@@ -50,9 +50,9 @@ Windows HUGO - INSTALACION
 ~~~
 - Instalar Hugo
 - Crear un nuevo proyecto de sitio web
-- Instalar un tema para desarrollo r�pido
-- Generar contenido nuevo, p�ginas y entradas
-- Llevar a producci�n
+- Instalar un tema para desarrollo rápido
+- Generar contenido nuevo, páginas y entradas
+- Llevar a producción
 - Publicar en GitHub Pages
 ~~~
 
@@ -60,7 +60,7 @@ Windows HUGO - INSTALACION
     > hugo new version
     > hugo new site mi-sitio
     > git clone submodule https://github.com/EmielH/tale-hugo/           themes/tale
-> hugo new site mi-sitio
+    > hugo new site mi-sitio
     > hugo new post/mi-post.md ( con draft:true)
 
     ** Github Pages**
@@ -78,8 +78,8 @@ Cada vez que realicemos una modificación habrá que realizar le build de hugo -
     > Hugo -d docs
 
 **Personalizacion de temas de Hugo**
-[PersonalizandoHugo][Hugo]
-[Hugo]: http://desarrolloweb.com/articulos/personalizar-tema-hugo/
+
+[PERSONALIZACIÓN DE HUGO]: (http://desarrolloweb.com/articulos/personalizar-tema-hugo/)
     
     
 
