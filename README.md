@@ -30,11 +30,11 @@ El template usado es el de LIVA, de entre los destacados como mejores en el 2022
 ## Dependencias 
  >Instalación de Git [GIT-TUTORIAL](https://git-scm.com/downloads)
  >>
- >Instalación de Hugo [HUGO-TUTORIAL](https://gohugo.io/getting-started/quick-start/)
+
   
 ## Desarrollo Local
 
-Windows HUGO - INSTALACION
+Windows HUGO - INSTALACION 
 --------------------------
 ¿ Que pasos debo realizar ?
 
@@ -70,10 +70,10 @@ Cada vez que realicemos una modificación habrá que realizar le build de hugo -
     > Hugo -d docs
   
  
- 
 Windows HUGO - INSTALACION LIVA
 --------------------------
-
+ >Instalación de Hugo [HUGO-TUTORIAL](https://gohugo.io/getting-started/quick-start/)
+ >
 #### clone the repository
 git clone git@github.com:gethugothemes/liva-hugo.git
 
