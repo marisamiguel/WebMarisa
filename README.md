@@ -42,3 +42,57 @@ $ cd liva-hugo/exampleSite/
 
 #### Start local dev server
 $ hugo server --themesDir ../..
+
+
+Windows HUGO - INSTALACION
+--------------------------
+
+~~~
+- Instalar Hugo
+- Crear un nuevo proyecto de sitio web
+- Instalar un tema para desarrollo r�pido
+- Generar contenido nuevo, p�ginas y entradas
+- Llevar a producci�n
+- Publicar en GitHub Pages
+~~~
+
+    > choco install hugo -confirm
+    > hugo new version
+    > hugo new site mi-sitio
+    > git clone submodule https://github.com/EmielH/tale-hugo/           themes/tale
+> hugo new site mi-sitio
+    > hugo new post/mi-post.md ( con draft:true)
+
+    ** Github Pages**
+
+    > Nuevo repositorio en mi GitHub
+    > git remote add https://github.com/EmielH/tale-hugo/mi-sitio.git
+    > git push -u origin main
+
+    ** Generar sitios y publicarlos en cualquier Hosting **
+
+La carpeta Public es para  subir a a cualquier Hosting , GitHubPages no me permite usar esta carpeta sino que tiene que ser con la carpeta Docs.
+
+Cada vez que realicemos una modificación habrá que realizar le build de hugo -d docs.
+    > Hugo 
+    > Hugo -d docs
+
+**Personalizacion de temas de Hugo**
+[PersonalizandoHugo][Hugo]
+[Hugo]: http://desarrolloweb.com/articulos/personalizar-tema-hugo/
+    
+    
+
+DOWNLOADS
+=========
+Windows HUGO - RELEASES
+--------------------------
+El enlace para las [actualizaciones][hugo] para las actualizaciones de Hugo   
+[hugo]: http://github.com/gohugoio/hugo/releases/
+
+Ejemplo de links con nombres de referencia:
+Me llamo Javier Crist�bal y tengo un blog sobre [productividad mac][blog].
+
+En dicha [web][blog] recopilo art�culos sobre todo lo relacionado con automatizaci�n, gesti�n y eficiencia.
+[blog]: http://limni.net/blog/
+
