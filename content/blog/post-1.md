@@ -51,6 +51,7 @@ type: "post"
 **Si tienes un proyecto en mente y no sabes por dónde empezar, te asesore sobre lo que realmente necesitas y resolviendo tus dudas sin compromiso. Si por el contrario tienes claro lo que quieres, adelante ¡ya puedes escoger el servicio!**.
 
 **************************************
+
 > ### PROYECTOS
 
 ### Pintar con Luz
