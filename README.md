@@ -34,10 +34,9 @@ El template usado es el de LIVA, de entre los destacados como mejores en el 2022
   
 ## Desarrollo Local
 
-
 Windows HUGO - INSTALACION
 --------------------------
-
+¿ Que pasos debo realizar ?
 
 - Instalar Hugo
 - Crear un nuevo proyecto de sitio web
@@ -70,6 +69,8 @@ Cada vez que realicemos una modificación habrá que realizar le build de hugo -
     > Hugo 
     > Hugo -d docs
   
+ 
+ 
 Windows HUGO - INSTALACION LIVA
 --------------------------
 
@@ -86,7 +87,6 @@ $ hugo server --themesDir ../..
 [PERSONALIZACIÓN DE HUGO](http://desarrolloweb.com/articulos/personalizar-tema-hugo/)
     
     
-
 DOWNLOADS
 =========
 Windows HUGO - RELEASES
