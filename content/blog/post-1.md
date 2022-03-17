@@ -12,13 +12,14 @@ description: "Diseño y Desarrollo Web"
 # taxonomies
 categories:
   -  "Adobe Photoshop" 
-  -  "Ligt Room"
+  -  "Ligth Room"
+  -  "Desarrollo Web"
 tags:
   - "Fotografía"
   - "Edición"
   - "Digital"
   - "Adobe Photoshop"
-  - "Light Room"
+  - "Ligth Room"
 
 # post type
 type: "post"
