@@ -33,11 +33,14 @@ Conocimientos en diferentes tipos de tecnologías:
   
 > - Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS , **BOOSTRAP**. Frameworks y librerías **JavaScript**; con el fin de mejorar el desarrollo de JavaScript serían: **Angular**
 
-> - Tecnologías Backend: Lenguajes de scripting:**Python,JavaScript**
+> - Tecnologías Backend: Lenguajes de scripting:**JavaScript**
 Frameworks:**Django**, **Wagtail (Python)**
-Lenguajes funcionales:**Java**
+Lenguajes funcionales:**Java,Apex,Python**
 
 > - Las *bases de datos* más utilizadas en base a su tipología son:Relacionales:**MySQL, MariaDB, PostgreSQL, Oracle**
+
+Actualmente estoy preparandome la certificación de Formación en el CRM de Salesforce I, las habilidades adquiridas durante mi formación con la plataforma han sido las siguientes: Conocimientos de Beginner en
+Desarrollo y Admin, Lightning Web Components,Aura Components,Clases Apex, Apex Triggers,Apex database, Test, Salesforce Flow.
 
 Estaría encantada de tener noticias suyas indicándome si están interesados en mi perfil.En cualquier caso, quedo a su disposición para cualquier duda que tengan.
 

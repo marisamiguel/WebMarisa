@@ -36,9 +36,9 @@ Conocimientos en diferentes tipos de tecnologías:
   Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**.
 
 - Tecnologías Backend:
-Lenguajes de scripting:**Python,JavaScript**.
+Lenguajes de scripting:**JavaScript**.
 Frameworks:**Django** y **Wagtail (Python)**
-Lenguajes funcionales:Java
+Lenguajes funcionales:Java,Python,Apex.
 
 Las *bases de datos* más utilizadas en base a su tipología son:
 
@@ -46,14 +46,7 @@ Las *bases de datos* más utilizadas en base a su tipología son:
 
 ![logos](../../images/post-4.png)
 
-> ### FORMACIÓN ACADÉMICA
-
-**2005/2006 PRÁCTICAS INTERNACIONALES Y FORMACIÓN DE TERAPIA OCUPACIONAL EN LA ESPECIALIDAD DE INTEGRACIÓN SENSORIAL** 
-
-- Complejo Asistencial Dr. Sotero del Río - Santiago de Chile
-
-- Instituto Neurológico Dr Carrea - Fleni - Buenos Aires
-
+> ### FORMACIÓN ACADÉMICA COMPLEMENTARIA
 
  2020 /CTA Formación desarrollo de páginas Web y contenidos HTML5 Eurofor                                                
 
@@ -67,8 +60,17 @@ Formación y experiencia en repositorios (git)
 Liderazgo de equipos y reuniones de trabajo
 
 > ### VIDA LABORAL
+**2022/Marzo a Junio. PRÁCTICAS JUNIOR DEVELOPER | SALESFORCE CRM en Accenture**
 
-
+Fundamentos de CRM para Lightning Experience
+Admin beginner, Developer beginner
+Apex Integration Services
+Apex & .NET Basics
+Apex Basics & Database
+Apex Triggers
+Salesforce Flow
+Record-Triggered Flows
+ 
 **2007/2010 TERAPEUTA OCUPACIONAL Residencia tercera edad "Las Buganvillas", Zaragoza**. 
 
 -Evaluación, diagnóstico y Tratamiento de cada paciente
