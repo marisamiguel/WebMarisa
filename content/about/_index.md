@@ -18,20 +18,14 @@ tags: ["Sobre mí","Carta de presentación","Desarrollo de App Webs","DAWS"]
 
 > **EL MUNDO NECESITA GENTE QUE AME LO QUE HACE**
  
-Hola soy Marisa Miguel Arnal, Desarrolladora de Aplicaciones Web.   
+Hola soy Marisa Miguel Arnal,  Desarrolladora de Aplicaciones Web
 
-Durante mis 19 años de vida profesional he podido desarrollar mi trabajo por vocación como Terapeuta en diferentes centros y asociaciones de Zaragoza; así como compaginar este trabajo con el que tengo en la actualidad y el cual llevo desarrollando 14 años para la [Sociedad Cooperativa Prides](http://www.prides.es/) como Técnico Animación SocioCultural en el proyecto [CJ Juslibol](https://cjjuslibolelgalacho.blogspot.com/) 2007/2021.
+A continuación mencionaré algunas de las competencias y habilidades  adquiridas durante estos años tanto por la formación que he realizado en el perfil  Desarrollo de Aplicaciones Web  como  por  la experiencia adquirida  en mi vida laboral en la gestión de proyectos, organización de eventos de carácter cultural , trabajo en equipo .
 
+Aunque en el CV viene detallada tanto parte de mi formación académica como mi trayectoria profesional, me permito resaltar algunas de las características de mi perfil:
 
-Mi largo recorrido profesional en la gestión de proyectos,la capacidad y/o habilidades completas adquiridas durante mi experiencia, incluyendo la colaboración  y resolución de problemas.Así como las competencias adquiridas durante mi grado en "Desarrollo de Aplicaciones Web", y continua formación  en diferentes tecnologías tanto frontend como backend me permiten resaltar algunas de las características de mi perfil:
-
-Experiencia y desarrollo de trabajo como Desarrolladora de Aplicaciones Web.
-
-Habituada a trabajar con sistemas de control de versiones distribuido **Git**.
   
-Conocimientos en diferentes tipos de tecnologías:
-  
-> - Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS , **BOOSTRAP**. Frameworks y librerías **JavaScript**; con el fin de mejorar el desarrollo de JavaScript serían: **Angular**
+> - Tecnologías Frontend: Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como BOOSTRAP y librerías JavaScript. Con el fin de mejorar el desarrollo de JavaScript serían: Angular.
 
 > - Tecnologías Backend: Lenguajes de scripting:**JavaScript**
 Frameworks:**Django**, **Wagtail (Python)**
