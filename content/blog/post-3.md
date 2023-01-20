@@ -1,6 +1,6 @@
 ---
-title: "CHECKLIST"
-date: 2023-10-29T10:07:47+06:00
+title:"CHECKLIST"
+date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb

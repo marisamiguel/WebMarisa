@@ -70,27 +70,19 @@ Salesforce TrailMix
 
  ># EMPLOYMENT HISTORY
 
-[Accenture] (https://www.accenture.com/es-es)
-
-
 > - **Accenture Spain**
+>    [Accenture](https://www.accenture.com/es-es)
 
-**Full time · 11 monthsFull time · 11 months**
+**Full time · 11 months**  Zaragoza, Aragon, Spain
 
-Zaragoza, Aragon, SpainZaragoza, Aragon, Spain
+> - **Business & Integration Arch Associate**
 
-**Business & Integration Arch Associate**
+> - Currently working on an international project supporting production & development
 
-Sept. 2022 - present · 5 months
-
-> - Currently working on an international project supporting production & developmentCurrently > - working on an international project supporting production & development
-
-Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
+**Skills**:Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
 
 **Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
-
- mar. 2022 - present · 11 months
 
 Salesforce DeveloperSalesforce Developer
 
