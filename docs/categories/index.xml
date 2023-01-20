@@ -5,6 +5,34 @@
     <link>https://marisamiguel.github.io/WebMarisa/categories/</link>
     <description>Recent content in Categories on Marisa Miguel Arnal | Web </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://marisamiguel.github.io/WebMarisa/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://marisamiguel.github.io/WebMarisa/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Photoshop</title>
+      <link>https://marisamiguel.github.io/WebMarisa/categories/adobe-photoshop/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/categories/adobe-photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo Web</title>
+      <link>https://marisamiguel.github.io/WebMarisa/categories/desarrollo-web/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/categories/desarrollo-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ligth Room</title>
+      <link>https://marisamiguel.github.io/WebMarisa/categories/ligth-room/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/categories/ligth-room/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
