@@ -1,18 +1,17 @@
 ---
-title: "USAR CHECKLIST"
-date: 2019-10-29T10:07:47+06:00
+title: "CHECKLIST"
+date: 2023-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
 image: "images/post-4.png"
 
 # meta description
-description: ""
+description: "Markdown"
 
 # taxonomies
 categories: 
-  - "WEB
-  - DISEÑO"
+  - "WEB"
 tags:
   - "Fotos"
   - "HTML"

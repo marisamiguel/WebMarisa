@@ -47,5 +47,8 @@ Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura 
 Currently working on an international project for Accenture as product support  and development.
 
 
+ > - [Github](https://github.com/marisamiguel)
+ 
+ > - [Linkedin](https://www.linkedin.com/in/marisamiguelarnal)
 
 
