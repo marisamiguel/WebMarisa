@@ -31,7 +31,7 @@ type: "post"
 
 **In order to make it easier to choose the service that best suits you, I have classified what I offer into 4 blocks**: 
 
-! [image] (.. /.. /images/web.png)
+![image](.. /.. /images/web.png)
 
 ### **1st Web** 
  > - ##### Web Design
@@ -64,23 +64,23 @@ Lover of photography and a faithful follower of tutorials in editing and post pr
 
 ##### Links of Interest in Digital Publishing
 
-[Digital Edition in Photoshop] (https://www.youtube.com/watcv=okqxIkTsXhY")
+[Digital Edition in Photoshop](https://www.youtube.com/watcv=okqxIkTsXhY")
 
 ##### Photography 
 
-! [image] (../../images/post/post-10.png)
+![image](../../images/post/post-10.png)
 
 ##### Digital Design
 
-! [image] (../../images/post/post-11.png)
+![image](../../images/post/post-11.png)
 
 ##### Web Design
 
-! [image] (../../images/post/post-12.png)
+![image](../../images/post/post-12.png)
 
 ##### Digital Marketing
 
-! [image] (../../images/post/post-13.png)
+![image](../../images/post/post-13.png)
 
 
 ##### Youtube video
@@ -89,4 +89,4 @@ I leave the link to the well-known Domestika YouTube channel, a place where you 
 
 Every creative journey starts somewhere. 
 
-[DOMESTIC] (https://www.youtube.com/channel/UCKbtk1ZAH5g4ZBYs0-10LFA)
+[DOMESTIC](https://www.youtube.com/channel/UCKbtk1ZAH5g4ZBYs0-10LFA)
