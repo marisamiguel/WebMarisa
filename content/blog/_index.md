@@ -65,7 +65,6 @@ Salesforce TrailMix
 
 [Accenture] (https://www.accenture.com/es-es)
 
-
 Accenture Spain
 
 Full time · 11 monthsFull time · 11 months
