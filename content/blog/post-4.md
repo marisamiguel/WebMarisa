@@ -64,23 +64,23 @@ Lover of photography and a faithful follower of tutorials in editing and post pr
 
 ##### Links of Interest in Digital Publishing
 
-[Digital Edition in Photoshop] (https://www.youtube.com/watch?v=okqxIkTsXhY")
+[Digital Edition in Photoshop] (https://www.youtube.com/watcv=okqxIkTsXhY")
 
 ##### Photography 
 
-![image] (.. /.. /images/post/post-10.png)
+! [image] (../../images/post/post-10.png)
 
 ##### Digital Design
 
-![image] (.. /.. /images/post/post-11.png)
+! [image] (../../images/post/post-11.png)
 
 ##### Web Design
 
-![image] (.. /.. /images/post/post-12.png)
+! [image] (../../images/post/post-12.png)
 
 ##### Digital Marketing
 
-![image] (.. /.. /images/post/post-13.png)
+! [image] (../../images/post/post-13.png)
 
 
 ##### Youtube video
