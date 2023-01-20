@@ -113,9 +113,9 @@ Salesforce DeveloperSalesforce Developer
 
  ># MORE DETAILS
 
- [Github](https://github.com/marisamiguel)
+ > - [Github](https://github.com/marisamiguel)
 
- [Linkedin](https://www.linkedin.com/in/marisamiguelarnal)
+ > - [Linkedin](https://www.linkedin.com/in/marisamiguelarnal)
 
  Immediate | Installability Driving license |
 
