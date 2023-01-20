@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2023-10-29T10:07:47+06:00
+date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -114,7 +114,9 @@ Salesforce DeveloperSalesforce Developer
  ># MORE DETAILS
 
  [Github](https://github.com/marisamiguel)
+
  [Linkedin](https://www.linkedin.com/in/marisamiguelarnal)
+
  Immediate | Installability Driving license |
 
 | --------------- |------------------
