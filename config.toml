@@ -45,7 +45,7 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "Sobre mí"
+  name = "About Me"
   URL = "about"
   weight = 1
 
@@ -55,13 +55,13 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "Contacto"
+  name = "Contact"
   URL = "contact"
   weight = 3
 
   # footer menu
   [[menu.footer]]
-  name = "Sobre mí"
+  name = "About me"
   URL = "about"
   weight = 1
 
@@ -71,7 +71,7 @@ disqusShortname = ""
   weight = 2
 
   [[menu.footer]]
-  name = "Contacto"
+  name = "Contact"
   URL = "contact"
   weight = 3
 
