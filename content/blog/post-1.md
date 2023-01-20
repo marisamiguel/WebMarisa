@@ -1,5 +1,5 @@
 ---
-title: "FOTOGRAFÍA | DESARROLLO Y DISEÑO WEB | SERVICIOS "
+title: "PHOTOGRAPHY | | WEB DEVELOPMENT AND DESIGN SERVICES "
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -25,66 +25,67 @@ tags:
 type: "post"
 ---
 
-> ### SERVICIOS
+> ### SERVICES
+
+### Find out how I can help you
+
+**In order to make it easier to choose the service that best suits you, I have classified what I offer into 4 blocks**: 
+
+! [image] (.. /.. /images/web.png)
+### **1st Web** 
+ > - ##### Web Design
+ > - ##### Online Stores
+ > - ##### Maintenance 
+ > - ##### Web Hosting
+
+### **2nd Digital Marketing** 
+##### Includes the different techniques such as:
+> - ##### SEO, SEM and Social Media web positioning
 
 
-### Descubre en qué puedo ayudarte
-
-**Con el fin de que sea más fácil elegir el servicio que más se adecue a ti, he clasificado lo que ofrezco en 4 bloques**: 
-
-![image](../../images/web.png)
-### **1º Web** 
- > - ##### Diseño de Páginas Web
- > -  ##### Tiendas Online
- > -  ##### Mantenimiento 
- > -  ##### Alojamiento Web
-
-### **2º Marketing Digital** 
-##### Incluye las diferentes técnicas como:
-> -  ##### Posicionamiento web SEO, SEM y Social Media
   
-### **3º Diseño gráfico** 
-  > - ##### Logotipos 
+### **3rd Graphic Design** 
+  > - ##### Logos 
   > - ##### Branding 
-  > - ##### Tarjetas de presentación y otros servicios gráficos e imprenta 
-  > - ##### Multimedia (fotografía y vídeo).
+  > - ##### Business cards and other printing and graphic services 
+  > - ##### Multimedia (photography and video).
 
-**Si tienes un proyecto en mente y no sabes por dónde empezar, te asesore sobre lo que realmente necesitas y resolviendo tus dudas sin compromiso. Si por el contrario tienes claro lo que quieres, adelante ¡ya puedes escoger el servicio!**.
+**If you have a project in mind and do not know where to start, advise you on what you really need and solve your doubts without obligation. If, on the other hand, you are clear about what you want, go ahead and you can choose the service!**.
 
-> ### PROYECTOS
+> ### PROJECTS
 
-### Pintar con Luz
+### Painting with Light
 
-Vivimos en un mundo visual, donde cada vez cobran mayor protagonismo las imágenes que las palabras.
+We live in a visual world, where images are becoming more and more prominent than words.
 
-Amante de la fotografía y una fiel seguidora de  tutoriales en edición y post producción através de canales en  Youtube ;).A continuación os dejo algunos de los trabajos que he ido realizando a lo largo de estos años, algunas fotos editadas tanto con Adobe Photoshop como en LigthRoom.
+Lover of photography and a faithful follower of tutorials in editing and post production through channels on Youtube ;). Here are some of the works I have been doing over the years, some photos edited both with Adobe Photoshop and LigthRoom.
 
 
-##### Links de Interés en Edición digital
+##### Links of Interest in Digital Publishing
 
-[Edición digital en Photoshop](https://www.youtube.com/watch?v=okqxIkTsXhY")
+[Digital Edition in Photoshop] (https://www.youtube.com/watch?v=okqxIkTsXhY")
 
-##### Fotografía 
+##### Photography 
 
-![image](../../images/post/post-10.png)
+! [image] (.. /.. /images/post/post-10.png)
 
-##### Diseño Digital
+##### Digital Design
 
-![image](../../images/post/post-11.png)
+! [image] (.. /.. /images/post/post-11.png)
 
-##### Diseño Web
+##### Web Design
 
-![image](../../images/post/post-12.png)
+! [image] (.. /.. /images/post/post-12.png)
 
-##### Marketing Digital
+##### Digital Marketing
 
-![image](../../images/post/post-13.png)
+! [image] (.. /.. /images/post/post-13.png)
 
 
 ##### Youtube video
 
-Os dejo el enlace al conocido canal de YouTube de Domestika, un lugar donde encontrarás nuevos vídeos cada día, desde entrevistas con creativos icónicos, tutoriales para ayudarte a aprender nuevas habilidades, hasta arte en directo y challenges divertidos. 
+I leave the link to the well-known Domestika YouTube channel, a place where you will find new videos every day, from interviews with iconic creatives, tutorials to help you learn new skills, to live art and fun challenges. 
 
-Cada viaje creativo empieza en algún lugar. 
+Every creative journey starts somewhere. 
 
-[DOMÉSTICA](https://www.youtube.com/channel/UCKbtk1ZAH5g4ZBYs0-10LFA)
+[DOMESTIC] (https://www.youtube.com/channel/UCKbtk1ZAH5g4ZBYs0-10LFA)

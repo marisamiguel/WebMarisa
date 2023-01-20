@@ -12,79 +12,102 @@ type : "blog "
 image: "images/portf.png"
 ---
 
- ># PERFIL                                  
+ ># PROFILE                                  
 
-Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2019/2022 
+Web Applications Development in  I.E.S  Los Enlaces , Zaragoza                      2019/2022 
                                                                       
  ># FRONTEND & BACKEND                                   
 
-Conocimientos en diferentes tipos de tecnologías:
+Knowledge of different types of technologies:
 
-Las *bases de datos* más utilizadas en base a su tipología son:
+> - **Frontend Technologies**: HTML Markup Language, CSS, preprocessors like LESS and frameworks like BOOSTRAP. JavaScript frameworks and libraries: in order to improve JavaScript development they would be: Angular.
 
-- Relacionales: MySQL, MariaDB, PostgreSQL, Oracle. 
-  
-- Tecnologías Frontend: 
- Lenguaje de Marcas HTML, CSS,Sintaxis Markdown, pre procesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**.
+> - **Backend Technologies**: Languages: JavaScript. Frameworks: Django (Python), Wagtail.
 
-- Tecnologías Backend:
-Lenguajes de scripting:Python,JavaScript.
-Frameworks: Django y CMS Wagtail (Python).
-Lenguajes funcionales:Java
+> - **Functional languages**: Java, Python ,Apex
 
- ># FORMACIÓN ACADÉMICA
+> - **Linux**
 
-**2005/2006 PRÁCTICAS INTERNACIONALES Y FORMACIÓN DE TERAPIA OCUPACIONAL EN LA ESPECIALIDAD DE INTEGRACIÓN SENSORIAL** 
+The most used databases based on their typology are:
 
-- Complejo Asistencial Dr. Sotero del Río - Santiago de Chile
+> - **Relational**: MySQL, MariaDB, PostgreSQL, Oracle.
 
-- Instituto Neurológico Dr Carrea - Fleni - Buenos Aires
+Last training and work done with Salesforce CRM as a traineer developer for Accenture.
+
+Salesforce developer learning path.
+
+Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test tests, GitLab**.
 
 
- 2020 /CTA Formación desarrollo de páginas Web y contenidos HTML5 Eurofor                                                
+ ># CAREER
 
- 2020 /CTA Formación en PHP Mysql.Eurofor                       
+**2005/2006 INTERNATIONAL INTERNSHIP AND OCCUPATIONAL THERAPY TRAINING IN THE SPECIALTY OF SENSORY INTEGRATION** 
 
-Formación y experiencia en programación Jquery y 
+- Dr. Sotero del Río Healthcare Complex - Santiago de Chile
+
+- Neurological Institute Dr Carrea - Fleni - Buenos Aires
+
+
+2020 /CTA Training development of Web pages and HTML5 content Eurofor                                                
+
+2020 /CTA PHP Training Mysql.Eurofor                       
+
+Training and experience in Jquery programming and 
 Javascript
 
-Formación y experiencia en repositorios (git)
+Training and experience in repositories (git)
 
-Liderazgo de equipos y reuniones de trabajo
+Team leadership and work meetings
 
- ># VIDA LABORAL
+Salesforce TrailMix
 
+ ># EMPLOYMENT HISTORY
 
-**2007/2010 TERAPEUTA OCUPACIONAL Residencia tercera edad "Las Buganvillas", Zaragoza**. 
-
--Evaluación, diagnóstico y Tratamiento de cada paciente
-
--Tratamiento rehabilitador desde el enfoque terapeútico
-
--Coordinación y trabajo Multidisciplinar
-
-**2007/actualidad TÉCNICO EN ANIMACIÓN SOCIO CULTURAL CJ ACTUR** 
-
-[Sociedad Cooperativa Prides](http://www.prides.es/)
-
--Responsable de la programación anual del centro
-
--Coordinación y organización de eventos de caracter cultural
-
--Coordinación con otros proyectos,espacios y puntos de encuentro
+[Accenture] (https://www.accenture.com/es-es)
 
 
- ># IDIOMAS
+Accenture Spain
 
-**Inglés**  > Nivel Medio hablado y escrito
+Full time · 11 monthsFull time · 11 months
 
-**Francés** > Nivel básico hablado y escrito
+Zaragoza, Aragon, SpainZaragoza, Aragon, Spain
+
+Business & Integration Arch Associate
+Sept. 2022 - present · 5 months
+
+Currently working on an international project supporting production & developmentCurrently working on an international project supporting production & development
+
+Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
 
- ># OTROS DATOS DE INTERÉS
+Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce
 
-| Disponibilidad Inmediata | Carnet de conducir |
+ mar. 2022 - present · 11 months
+
+Salesforce DeveloperSalesforce Developer
+Skills: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
+
+[Prides Cooperative Society] (http://www.prides.es/)
+
+-Responsible for the annual programming of the center
+
+-Coordination and organization of cultural events
+
+-Coordination with other projects, spaces and meeting points
+
+ ># LANGUAGES
+
+**English**  > Intermediate level 
+
+**French** > Basic level
+
+
+ ># MORE DETAILS
+
+Immediate | Installability Driving license |
+
 | --------------- |------------------
+
 
 
 

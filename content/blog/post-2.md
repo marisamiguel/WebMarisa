@@ -24,83 +24,103 @@ type: "post"
 ---
 
 
-> ### PERFIL                                  
 
-Desarrollo de Aplicaciones Web en el I.E.S  los Enlaces                        2019/2022 
+ ># PROFILE                                  
+
+Web Applications Development in  I.E.S  Los Enlaces , Zaragoza                      2019/2022 
                                                                       
-> ### FRONTEND & BACKEND                                   
+ ># FRONTEND & BACKEND                                   
 
-Conocimientos en diferentes tipos de tecnologías:
-  
-- Tecnologías Frontend: 
-  Lenguaje de Marcas HTML, CSS, preprocesadores como LESS y frameworks como BOOSTRAP. Frameworks y librerías JavaScript: con el fin de mejorar el desarrollo de JavaScript serían: **Angular**.
+Knowledge of different types of technologies:
 
-- Tecnologías Backend:
-Lenguajes de scripting:**JavaScript**.
-Frameworks:**Django** y **Wagtail (Python)**
-Lenguajes funcionales:Java,Python,Apex.
+> - **Frontend Technologies**: HTML Markup Language, CSS, preprocessors like LESS and frameworks like BOOSTRAP. JavaScript frameworks and libraries: in order to improve JavaScript development they would be: Angular.
 
-Las *bases de datos* más utilizadas en base a su tipología son:
+> - **Backend Technologies**: Languages: JavaScript. Frameworks: Django (Python), Wagtail.
 
-- Relacionales: MySQL, MariaDB, PostgreSQL, Oracle.
+> - **Functional languages**: Java, Python ,Apex
 
-![logos](../../images/post-4.png)
+> - **Linux**
 
-> ### FORMACIÓN ACADÉMICA COMPLEMENTARIA
+The most used databases based on their typology are:
 
- 2020 /CTA Formación desarrollo de páginas Web y contenidos HTML5 Eurofor                                                
+> - **Relational**: MySQL, MariaDB, PostgreSQL, Oracle.
 
- 2020 /CTA Formación en PHP Mysql.Eurofor                       
+Last training and work done with Salesforce CRM as a traineer developer for Accenture.
 
-Formación y experiencia en programación Jquery y 
+Salesforce developer learning path.
+
+Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test tests, GitLab**.
+
+
+ ># CAREER
+
+**2005/2006 INTERNATIONAL INTERNSHIP AND OCCUPATIONAL THERAPY TRAINING IN THE SPECIALTY OF SENSORY INTEGRATION** 
+
+- Dr. Sotero del Río Healthcare Complex - Santiago de Chile
+
+- Neurological Institute Dr Carrea - Fleni - Buenos Aires
+
+
+2020 /CTA Training development of Web pages and HTML5 content Eurofor                                                
+
+2020 /CTA PHP Training Mysql.Eurofor                       
+
+Training and experience in Jquery programming and 
 Javascript
 
-Formación y experiencia en repositorios (git)
+Training and experience in repositories (git)
 
-Liderazgo de equipos y reuniones de trabajo
+Team leadership and work meetings
 
-> ### VIDA LABORAL
-**2022/Marzo a Junio. PRÁCTICAS JUNIOR DEVELOPER | SALESFORCE CRM en Accenture**
+Salesforce TrailMix
 
-Fundamentos de CRM para Lightning Experience
-Admin beginner, Developer beginner
-Apex Integration Services
-Apex & .NET Basics
-Apex Basics & Database
-Apex Triggers
-Salesforce Flow
-Record-Triggered Flows
- 
-**2007/2010 TERAPEUTA OCUPACIONAL Residencia tercera edad "Las Buganvillas", Zaragoza**. 
+ ># EMPLOYMENT HISTORY
 
--Evaluación, diagnóstico y Tratamiento de cada paciente
-
--Tratamiento rehabilitador desde el enfoque terapeútico
-
--Coordinación y trabajo Multidisciplinar
-
-**2007/actualidad TÉCNICO EN ANIMACIÓN SOCIO CULTURAL CJ ACTUR** 
-
-[Sociedad Cooperativa Prides](http://www.prides.es/)
-
--Responsable de la programación anual del centro
-
--Coordinación y organización de eventos de caracter cultural
-
--Coordinación con otros proyectos,espacios y puntos de encuentro
+[Accenture] (https://www.accenture.com/es-es)
 
 
-> ### IDIOMAS
+Accenture Spain
 
-**Inglés** > Nivel Medio hablado y escrito
+Full time · 11 monthsFull time · 11 months
 
-**Francés** > Nivel básico hablado y escrito
+Zaragoza, Aragon, SpainZaragoza, Aragon, Spain
+
+Business & Integration Arch Associate
+Sept. 2022 - present · 5 months
+
+Currently working on an international project supporting production & developmentCurrently working on an international project supporting production & development
+
+Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
 
- > ### OTROS DATOS DE INTERÉS
+Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce
 
-| Disponibilidad Inmediata | Carnet de conducir |
+ mar. 2022 - present · 11 months
+
+Salesforce DeveloperSalesforce Developer
+Skills: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
+
+[Prides Cooperative Society] (http://www.prides.es/)
+
+-Responsible for the annual programming of the center
+
+-Coordination and organization of cultural events
+
+-Coordination with other projects, spaces and meeting points
+
+ ># LANGUAGES
+
+**English**  > Intermediate level 
+
+**French** > Basic level
+
+
+ ># MORE DETAILS
+
+Immediate | Installability Driving license |
+
 | --------------- |------------------
+
 
 
 

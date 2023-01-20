@@ -1,5 +1,5 @@
 ---
-title: "USAR CHECKLIST PARA MEJORAR TU SINTAXIS"
+title: "USAR CHECKLIST"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
