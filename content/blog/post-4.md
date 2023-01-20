@@ -31,7 +31,7 @@ type: "post"
 
 **In order to make it easier to choose the service that best suits you, I have classified what I offer into 4 blocks**: 
 
-![image] (.. /.. /images/web.png)
+! [image] (.. /.. /images/web.png)
 
 ### **1st Web** 
  > - ##### Web Design

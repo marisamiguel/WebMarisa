@@ -7,11 +7,11 @@
             {{ if .Params.Image }}
             <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4"> {{ end }}
             <p>{{ .Summary }}</p>
-            <a href="{{ .Permalink }}" class="btn btn-outline-primary">Más Información</a> {{ end }}
+            <a href="{{ .Permalink }}" class="btn btn-outline-primary">More Information</a> {{ end }}
         </div>
         <!-- category -->
         <div class="widget">
-            <h4 class="widget-title">Categorías</h4>
+            <h4 class="widget-title">Categories</h4>
             {{- if isset .Site.Taxonomies "categories" }} {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
             <ul class="list-unstyled">
                 {{- range $name, $items := .Site.Taxonomies.categories }}
@@ -34,7 +34,7 @@
         </div>
         <!-- social -->
         <div class="widget">
-            <h4 class="widget-title">Social</h4>
+            <h4 class="widget-title">Social media</h4>
             <ul class="list-inline social-links">
                 {{ range .Site.Params.social }}
                 <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>

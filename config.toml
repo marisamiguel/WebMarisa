@@ -81,7 +81,7 @@ disqusShortname = ""
 logo = "images/avatar.png"
 home = "M.M.A"
 # Meta data
-description = "Web Personal"
+description = "Personal Web "
 author = "Marisa Miguel Arnal"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -90,7 +90,7 @@ mobile = "692 40 56 84"
 email = "Marisamiar@outlook.com"
 location = "Zaragoza, España"
 # copyright
-copyright = " Copyright @ Marisa Miguel Arnal | Todos derechos reservados "
+copyright = " Copyright @ Marisa Miguel Arnal | All rights reserved "
 
   # Preloader
   [params.preloader]
@@ -104,8 +104,8 @@ copyright = " Copyright @ Marisa Miguel Arnal | Todos derechos reservados "
 ############################ news letter ########################
 [params.newsletter]
 #enable = true
-#title = "Únete a mi Newsletter"
-#content = "Hello!! Aquí podrás consultar mis últimos post."
+#title = "Join to my newsletter"
+#content = "Hello!! "
 
 
 # cookies
