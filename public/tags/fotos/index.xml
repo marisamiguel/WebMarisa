@@ -8,21 +8,21 @@
     <language>es-es</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://marisamiguel.github.io/WebMarisa/tags/fotos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CV</title>
-      <link>https://marisamiguel.github.io/WebMarisa/blog/post-2/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/blog/post-2/</guid>
-      <description>PERFIL  Desarrollo de Aplicaciones Web en el I.E.S los Enlaces 2019/2022</description>
-    </item>
-    
-    <item>
-      <title>USAR CHECKLIST PARA MEJORAR TU SINTAXIS</title>
+      <title>CHECKLIST </title>
       <link>https://marisamiguel.github.io/WebMarisa/blog/post-3/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://marisamiguel.github.io/WebMarisa/blog/post-3/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://marisamiguel.github.io/WebMarisa/blog/post-2/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/blog/post-2/</guid>
+      <description>PROFILE  Web Applications Development in I.E.S Los Enlaces , Zaragoza 2019/2022</description>
     </item>
     
   </channel>
