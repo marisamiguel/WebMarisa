@@ -54,13 +54,6 @@ Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura 
 
  ># CAREER
 
-**2005/2006 INTERNATIONAL INTERNSHIP AND OCCUPATIONAL THERAPY TRAINING IN THE SPECIALTY OF SENSORY INTEGRATION** 
-
-- Dr. Sotero del Río Healthcare Complex - Santiago de Chile
-
-- Neurological Institute Dr Carrea - Fleni - Buenos Aires
-
-
 2020 /CTA Training development of Web pages and HTML5 content Eurofor                                                
 
 2020 /CTA PHP Training Mysql.Eurofor                       
@@ -74,33 +67,36 @@ Team leadership and work meetings
 
 Salesforce TrailMix
 
+
  ># EMPLOYMENT HISTORY
 
 [Accenture] (https://www.accenture.com/es-es)
 
 
-Accenture Spain
+> - **Accenture Spain**
 
-Full time · 11 monthsFull time · 11 months
+**Full time · 11 monthsFull time · 11 months**
 
 Zaragoza, Aragon, SpainZaragoza, Aragon, Spain
 
-Business & Integration Arch Associate
+**Business & Integration Arch Associate**
+
 Sept. 2022 - present · 5 months
 
-Currently working on an international project supporting production & developmentCurrently working on an international project supporting production & development
+> - Currently working on an international project supporting production & developmentCurrently > - working on an international project supporting production & development
 
 Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
 
-Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce
+**Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
 
  mar. 2022 - present · 11 months
 
 Salesforce DeveloperSalesforce Developer
-Skills: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
 
-[Prides Cooperative Society] (http://www.prides.es/)
+**Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
+
+> - [Prides Cooperative Society] (http://www.prides.es/)
 
 -Responsible for the annual programming of the center
 
