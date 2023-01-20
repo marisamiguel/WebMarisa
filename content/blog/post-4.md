@@ -1,161 +1,91 @@
 ---
-title: "DESARROLLADO DE APLICACIONES WEB"
-date: 2022-10-29T10:07:47+06:00
+title: "PHOTOGRAPHY | WEB DEVELOPMENT AND DESIGN SERVICES "
+date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post-4.png"
+image: "images/featured-post/pro.png"
 
 # meta description
-description: "Descripción desarrollo de páginas Web y contenido"
+description: "Diseño y Desarrollo Web"
 
 # taxonomies
-categories: 
-  - "WEB
-  - DISEÑO
-  - DESARROLLO"
+categories:
+  -  "Adobe Photoshop" 
+  -  "Ligth Room"
+  -  "Desarrollo Web"
 tags:
-  - "HUGO"
-  
+  - "Fotografía"
+  - "Edición"
+  - "Digital"
+  - "Adobe Photoshop"
+  - "Ligth Room"
 
 # post type
-type: ""
+type: "post"
 ---
-```
-SERVICIOS
-Descubre en qué podemos ayudarte
-Con el fin de que sea más fácil elegir el servicio que más se adecue a ti, hemos clasificado lo que ofrecemos en 4 bloques: el de Web (que engloba Diseño de páginas web, Tiendas online, Mantenimiento y Alojamiento web), el de Marketing Digital (que incluye las diferentes técnicas como posicionamiento web SEO, SEM y Social Media), el de Diseño gráfico (logotipos, branding, tarjetas de presentación y otros servicios gráficos e imprenta) y Multimedia (fotografía y vídeo).
 
-Si tienes un proyecto en mente y no sabes por dónde empezar, en nuestro estudio te asesoraremos sobre lo que realmente necesitas y resolvemos tus dudas sin compromiso. Si por el contrario tienes claro lo que quieres, adelante ¡ya puedes escoger el servicio!.
-```
-<hr>
+> ### SERVICES
 
+### Find out how I can help you
 
+**In order to make it easier to choose the service that best suits you, I have classified what I offer into 4 blocks**: 
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+! [image] (.. /.. /images/web.png)
+### **1st Web** 
+ > - ##### Web Design
+ > - ##### Online Stores
+ > - ##### Maintenance 
+ > - ##### Web Hosting
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
+### **2nd Digital Marketing** 
+##### Includes the different techniques such as:
+> - ##### SEO, SEM and Social Media web positioning
 
 
-<hr>
+  
+### **3rd Graphic Design** 
+  > - ##### Logos 
+  > - ##### Branding 
+  > - ##### Business cards and other printing and graphic services 
+  > - ##### Multimedia (photography and video).
 
-##### Ordered List
+**If you have a project in mind and do not know where to start, advise you on what you really need and solve your doubts without obligation. If, on the other hand, you are clear about what you want, go ahead and you can choose the service!**.
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+> ### PROJECTS
 
+### Painting with Light
 
-##### Unordered List
+We live in a visual world, where images are becoming more and more prominent than words.
 
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+Lover of photography and a faithful follower of tutorials in editing and post production through channels on Youtube ;). Here are some of the works I have been doing over the years, some photos edited both with Adobe Photoshop and LigthRoom.
 
 
-<hr>
+##### Links of Interest in Digital Publishing
 
-##### Tables
+[Digital Edition in Photoshop] (https://www.youtube.com/watch?v=okqxIkTsXhY")
 
-Colons can be used to align columns.
+##### Photography 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+! [image] (.. /.. /images/post/post-10.png)
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+##### Digital Design
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+! [image] (.. /.. /images/post/post-11.png)
 
-<hr>
+##### Web Design
 
+! [image] (.. /.. /images/post/post-12.png)
+
+##### Digital Marketing
+
+! [image] (.. /.. /images/post/post-13.png)
 
 
 ##### Youtube video
 
-{{< youtube C0DPdy98e4c >}}
+I leave the link to the well-known Domestika YouTube channel, a place where you will find new videos every day, from interviews with iconic creatives, tutorials to help you learn new skills, to live art and fun challenges. 
+
+Every creative journey starts somewhere. 
+
+[DOMESTIC] (https://www.youtube.com/channel/UCKbtk1ZAH5g4ZBYs0-10LFA)
