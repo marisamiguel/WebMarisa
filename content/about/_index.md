@@ -1,5 +1,5 @@
 ---
-title: "Sobre mí"
+title: "About me"
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -13,8 +13,6 @@ description: "Sobre mí"
 type : "about"
 tags: ["Sobre mí","Carta de presentación","Desarrollo de App Webs","DAWS"]
 ---
-
-
 
 > **The world needs people who love what they do**
  
