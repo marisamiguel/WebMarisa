@@ -31,7 +31,8 @@ type: "post"
 
 **In order to make it easier to choose the service that best suits you, I have classified what I offer into 4 blocks**: 
 
-! [image] (.. /.. /images/web.png)
+![image] (.. /.. /images/web.png)
+
 ### **1st Web** 
  > - ##### Web Design
  > - ##### Online Stores
@@ -67,19 +68,19 @@ Lover of photography and a faithful follower of tutorials in editing and post pr
 
 ##### Photography 
 
-! [image] (.. /.. /images/post/post-10.png)
+![image] (.. /.. /images/post/post-10.png)
 
 ##### Digital Design
 
-! [image] (.. /.. /images/post/post-11.png)
+![image] (.. /.. /images/post/post-11.png)
 
 ##### Web Design
 
-! [image] (.. /.. /images/post/post-12.png)
+![image] (.. /.. /images/post/post-12.png)
 
 ##### Digital Marketing
 
-! [image] (.. /.. /images/post/post-13.png)
+![image] (.. /.. /images/post/post-13.png)
 
 
 ##### Youtube video
