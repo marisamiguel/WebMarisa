@@ -68,9 +68,8 @@ Team leadership and work meetings
 Salesforce TrailMix
 
 
- >##  EMPLOYMENT HISTORY
+>##  EMPLOYMENT HISTORY
 
-> - **Accenture Spain**
 >    [Accenture](https://www.accenture.com/es-es)
 
 **Full time · 11 months**  Zaragoza, Aragon, Spain
