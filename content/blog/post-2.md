@@ -91,7 +91,7 @@ Salesforce Developer
 **Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
 
 >  [Prides Cooperative Society](http://www.prides.es/)
-
+Oct.2006 - Sep.2022
 -Responsible for the annual programming of the center
 
 -Coordination and organization of cultural events
