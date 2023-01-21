@@ -74,9 +74,8 @@ Salesforce TrailMix
 
 **Full time · 11 months**  Zaragoza, Aragon, Spain
 
-> - **Business & Integration Arch Associate**
-
-> - Currently working on an international project supporting production & development
+- **Business & Integration Arch Associate**
+  Currently working on an international project supporting production & development
 
 **Skills**:Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
