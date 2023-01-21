@@ -88,7 +88,7 @@ Salesforce TrailMix
 
 - **Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
  
-     Feb.2022 - currently. 11 months
+    Feb.2022 - currently. 11 months
 
      Salesforce Developer
 
