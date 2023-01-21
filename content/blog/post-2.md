@@ -70,18 +70,22 @@ Salesforce TrailMix
 
 > ##  EMPLOYMENT HISTORY
 
->   [Accenture](https://www.accenture.com/es-es)
+>   [Accenture Spain](https://www.accenture.com/es-es)
 
-**Full time · 11 months**  Zaragoza, Aragon, Spain
+>   **Full time · 11 months , Zaragoza - Spain**
+ 
+ 
 
 - **Business & Integration Arch Associate**
+  Sep.2022 - currently. 5 months
   Currently working on an international project supporting production & development
+
+- [Trailblazer Profile](https://trailblazer.me/id/marisamiar)
 
 **Skills**:Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
-
 - **Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
-
+Feb.2022 - currently. 11 months
 Salesforce Developer
 
 **Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
@@ -105,6 +109,9 @@ Salesforce Developer
  > - [Github](https://github.com/marisamiguel)
 
  > - [Linkedin](https://www.linkedin.com/in/marisamiguelarnal)
+
+ > - [Trailblazer Profile](https://trailblazer.me/id/marisamiar)
+ 
 
       
 
