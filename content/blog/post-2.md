@@ -70,7 +70,7 @@ Salesforce TrailMix
 
 > ##  EMPLOYMENT HISTORY
 
->    [Accenture](https://www.accenture.com/es-es)
+>   [Accenture](https://www.accenture.com/es-es)
 
 **Full time · 11 months**  Zaragoza, Aragon, Spain
 
@@ -87,7 +87,7 @@ Salesforce DeveloperSalesforce Developer
 
 **Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
 
-> - [Prides Cooperative Society](http://www.prides.es/)
+>  [Prides Cooperative Society](http://www.prides.es/)
 
 -Responsible for the annual programming of the center
 
