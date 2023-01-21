@@ -78,7 +78,7 @@ Salesforce TrailMix
 
 - **Business & Integration Arch Associate**
   
-  | Sep.2022 - currently. 5 months
+      Sep.2022 - currently. 5 months
 
   Currently working on an international project supporting production & development
 
@@ -88,9 +88,9 @@ Salesforce TrailMix
 
 - **Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
  
-  | Feb.2022 - currently. 11 months
+     Feb.2022 - currently. 11 months
 
-    Salesforce Developer
+     Salesforce Developer
 
 **Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
 
