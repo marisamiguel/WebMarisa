@@ -80,9 +80,9 @@ Salesforce TrailMix
 **Skills**:Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · JIRA · Spring Boot
 
 
-**Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
+- **Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce**
 
-Salesforce DeveloperSalesforce Developer
+Salesforce Developer
 
 **Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
 
@@ -106,9 +106,9 @@ Salesforce DeveloperSalesforce Developer
 
  > - [Linkedin](https://www.linkedin.com/in/marisamiguelarnal)
 
- Immediate | Installability Driving license |
+      
 
-| --------------- |------------------
+
 
 
 
