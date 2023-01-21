@@ -25,11 +25,11 @@ type: "post"
 
 
 
- ># PROFILE                                  
+ >## PROFILE                                  
 
 Web Applications Development in  I.E.S  Los Enlaces , Zaragoza                      2019/2022 
                                                                       
- ># FRONTEND & BACKEND                                   
+ >##  FRONTEND & BACKEND                                   
 
 Knowledge of different types of technologies:
 
@@ -52,7 +52,7 @@ Salesforce developer learning path.
 Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test tests, GitLab**.
 
 
- ># CAREER
+ >## CAREER
 
 2020 /CTA Training development of Web pages and HTML5 content Eurofor                                                
 
@@ -68,7 +68,7 @@ Team leadership and work meetings
 Salesforce TrailMix
 
 
- ># EMPLOYMENT HISTORY
+ >##  EMPLOYMENT HISTORY
 
 > - **Accenture Spain**
 >    [Accenture](https://www.accenture.com/es-es)
@@ -88,7 +88,7 @@ Salesforce DeveloperSalesforce Developer
 
 **Skills**: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
 
-> - [Prides Cooperative Society] (http://www.prides.es/)
+> - [Prides Cooperative Society](http://www.prides.es/)
 
 -Responsible for the annual programming of the center
 
@@ -96,14 +96,13 @@ Salesforce DeveloperSalesforce Developer
 
 -Coordination with other projects, spaces and meeting points
 
- ># LANGUAGES
+ >## LANGUAGES
 
 **English**  > Intermediate level 
 
 **French** > Basic level
 
-
- ># MORE DETAILS
+ >## MORE DETAILS
 
  > - [Github](https://github.com/marisamiguel)
 
