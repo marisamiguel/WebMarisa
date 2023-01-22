@@ -24,7 +24,13 @@ tags:
 # post type
 type: "post"
 ---
-GALLERY PHOTOGRAPHY 2023 | ZARAGOZA
+
+> - **GALLERY PHOTOGRAPHY 2023 | ZARAGOZA**
+
+How to capture the moment in a photograph
+The photographer's job could be defined as the art of capturing moments, thus making up for the failures of human memory. For this reason, those of us who dedicate ourselves to this trade are continually looking for new ways to freeze moments.
+
+
 
 ![image](../../images/gallery/1.png)
 ![image](../../images/gallery/2.png)
