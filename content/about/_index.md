@@ -7,11 +7,11 @@ draft: false
 image: "images/marisamiguel.png"
 
 # meta description
-description: "Sobre mí"
+description: "About me"
 
 # type
 type : "about"
-tags: ["Sobre mí","Carta de presentación","Desarrollo de App Webs","DAWS"]
+tags: ["About me","Web Application Development","DAW"]
 ---
 
 > **The world needs people who love what they do**

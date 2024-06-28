@@ -13,10 +13,9 @@ description: "Desing and Web development"
 categories:
   -  "Adobe Photoshop" 
   -  "Ligth Room"
-  -  "Desarrollo Web"
 tags:
-  - "Fotografía"
-  - "Edición"
+  - "Photography"
+  - "Edition"
   - "Digital"
   - "Adobe Photoshop"
   - "Ligth Room"

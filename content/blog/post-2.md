@@ -13,11 +13,9 @@ description: "App Web"
 categories: 
   - "CURRICULUM VITAE"
 tags:
-  - "Fotos"
-  - "Tecnologías Backend"
-  - "Tecnologías Frontend"
-  - "CV"
-  - "Vida Laboral"
+  - "Backend"
+  - "Frontend"
+  
 
 # post type
 type: "post"

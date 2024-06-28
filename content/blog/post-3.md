@@ -13,9 +13,8 @@ description: "Markdown"
 categories: 
   - "WEB"
 tags:
-  - "Fotos"
   - "HTML"
-  - "Diseño"
+  - "Design"
   - "Web"
   - "CSS"
 
