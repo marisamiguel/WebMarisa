@@ -70,17 +70,32 @@ Salesforce TrailMix
 
 > ##  EMPLOYMENT HISTORY
 
+> [Capgemini Spain](https://www.capgemini.com/es-es/)
+
+>   **Full time · currently , Barcelona - Spain**
+ 
+- **Software Engineering Prog**
+  
+      March.2023 - currently 
+
+  Currently working on an international project.
+  
+Role and responsabilities:
+
+  Designing, coding, and implementing Salesforce applications
+  Creating timelines and development goals
+  Testing the stability and functionality of the application
+  Troubleshooting and fixing bugs
+  Writing documents and providing technical training to other team members
+
+
 >   [Accenture Spain](https://www.accenture.com/es-es)
-
->   **Full time · 11 months , Zaragoza - Spain**
  
- 
-
 - **Business & Integration Arch Associate**
   
-      Sep.2022 - currently. 5 months
+      Sep.2022 - March.2024
 
-  Currently working on an international project supporting production & development
+  I worked on an international project supporting production & development
 
   [Trailblazer Profile](https://trailblazer.me/id/marisamiar)
 

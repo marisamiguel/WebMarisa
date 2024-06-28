@@ -6,6 +6,7 @@ draft: false
 # meta description
 description: "Curriculum Vitae, Posts de mi web personal"
 tags: ["Post", "CV", "Blog","Descripcion", "Formacion"]
+
 # type
 type : "blog "
 # image
