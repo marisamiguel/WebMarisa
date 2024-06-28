@@ -96,14 +96,14 @@ El enlace para las [actualizaciones][hugo] para las actualizaciones de Hugo
 
 MAINTENANCE
 =========
-git clone
-authentication
-git add .
-git commit -m "Here your most updated version 2024"
-git push
+> git clone
+> authentication
+> git add .
+> git commit -m "Here your most updated version 2024"
+> git push
 
-Hugo
-Hugo -d docs
+> Hugo
+> Hugo -d docs
 
 
 
