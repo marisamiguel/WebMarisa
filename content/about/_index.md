@@ -38,7 +38,9 @@ The most used databases based on their typology are:
 
 > - **Relational**: MySQL, MariaDB, PostgreSQL, Oracle.
 
-Last training and work done with Salesforce CRM as a traineer developer for Accenture.
+Tools: 
+
+> - **Dataloader, Workbench, Odaseva, Postman, Mulesoft, OneTrust,Google Analytics**
 
 Salesforce developer learning path.
 
