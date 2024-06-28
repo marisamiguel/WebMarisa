@@ -78,15 +78,19 @@ Salesforce TrailMix
   
       March.2023 - currently 
 
-  Currently working on an international project.
+  Work on an international project.
   
-Role and responsabilities:
+**Role and responsabilities**
 
-  Designing, coding, and implementing Salesforce applications
-  Creating timelines and development goals
-  Testing the stability and functionality of the application
-  Troubleshooting and fixing bugs
-  Writing documents and providing technical training to other team members
+  · Designing, coding, and implementing Salesforce applications 
+
+  · Creating timelines and development goals
+
+  · Testing the stability and functionality of the application
+
+  · Troubleshooting and fixing bugs
+
+  · Writing documents and providing technical training to other team members
 
 
 >   [Accenture Spain](https://www.accenture.com/es-es)
