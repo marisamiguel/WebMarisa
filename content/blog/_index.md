@@ -8,7 +8,7 @@ description: "CV"
 tags: ["Post", "CV", "Blog"]
 
 # type
-type : "blog "
+type : "Blog "
 # image
 image: "images/portf.png"
 ---

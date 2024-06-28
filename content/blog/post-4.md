@@ -11,9 +11,9 @@ description: "Desing and Web development"
 
 # taxonomies
 categories:
-  -  "Adobe Photoshop" 
-  -  "Ligth Room"
-  -  "Web Development"
+  -  "ADOBE PHOTOSHOP" 
+  -  "EDITION"
+  -  "WEB DEVELOPMENT"
 tags:
   - "Gallery"
 

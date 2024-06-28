@@ -8,9 +8,11 @@ image: "images/marisamiguel.png"
 
 # meta description
 description: "About me"
-
+categories:
+  -  "CV" 
+  
 # type
-type : "about"
+type : "About"
 tags: ["About me","Web Application Development","DAW"]
 ---
 
