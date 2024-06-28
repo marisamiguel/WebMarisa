@@ -94,5 +94,16 @@ Windows HUGO - RELEASES
 El enlace para las [actualizaciones][hugo] para las actualizaciones de Hugo   
 [HUGO RELEASES ](http://github.com/gohugoio/hugo/releases/)
 
+MAINTENANCE
+=========
+> - git clone
+> - authentication
+> - git add .
+> - git commit -m "Here your most updated version 2024"
+> - git push
+
+> - Hugo
+> - Hugo -d docs
+
 
 
