@@ -35,20 +35,20 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/about-me/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog</title>
       <link>https://marisamiguel.github.io/WebMarisa/tags/blog/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
       <guid>https://marisamiguel.github.io/WebMarisa/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carta de presentación</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/carta-de-presentaci%C3%B3n/</link>
-      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/carta-de-presentaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -62,38 +62,11 @@
     </item>
     
     <item>
-      <title>DAWS</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/daws/</link>
+      <title>DAW</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/daw/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/daws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Desarrollo de App Webs</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/desarrollo-de-app-webs/</link>
-      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/desarrollo-de-app-webs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Descripcion</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/descripcion/</link>
-      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/descripcion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Formacion</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/formacion/</link>
-      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/formacion/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/daw/</guid>
       <description></description>
     </item>
     
@@ -107,11 +80,11 @@
     </item>
     
     <item>
-      <title>Sobre mí</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/sobre-m%C3%AD/</link>
+      <title>Web Application Development</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/web-application-development/</link>
       <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/sobre-m%C3%AD/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/web-application-development/</guid>
       <description></description>
     </item>
     
@@ -125,11 +98,29 @@
     </item>
     
     <item>
+      <title>Backend</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/backend/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CSS</title>
       <link>https://marisamiguel.github.io/WebMarisa/tags/css/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://marisamiguel.github.io/WebMarisa/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/design/</guid>
       <description></description>
     </item>
     
@@ -143,38 +134,29 @@
     </item>
     
     <item>
-      <title>Diseño</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/dise%C3%B1o/</link>
+      <title>Edition</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/edition/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/dise%C3%B1o/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/edition/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Edición</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/edici%C3%B3n/</link>
+      <title>Frontend</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/frontend/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/edici%C3%B3n/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/frontend/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fotografía</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/fotograf%C3%ADa/</link>
+      <title>Gallery</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/gallery/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/fotograf%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fotos</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/fotos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/fotos/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/gallery/</guid>
       <description></description>
     </item>
     
@@ -197,29 +179,11 @@
     </item>
     
     <item>
-      <title>Tecnologías Backend</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-backend/</link>
+      <title>Photography</title>
+      <link>https://marisamiguel.github.io/WebMarisa/tags/photography/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-backend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tecnologías Frontend</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-frontend/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/tecnolog%C3%ADas-frontend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vida Laboral</title>
-      <link>https://marisamiguel.github.io/WebMarisa/tags/vida-laboral/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://marisamiguel.github.io/WebMarisa/tags/vida-laboral/</guid>
+      <guid>https://marisamiguel.github.io/WebMarisa/tags/photography/</guid>
       <description></description>
     </item>
     
