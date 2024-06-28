@@ -70,7 +70,7 @@ Salesforce TrailMix
 
 > ##  EMPLOYMENT HISTORY
 
-> [Capgemini Spain](https://www.capgemini.com/es-es/)
+>[Capgemini Spain](https://www.capgemini.com/es-es/)
 
 >   **Full time · currently , Barcelona - Spain**
  

@@ -44,7 +44,7 @@ Salesforce developer learning path.
 
 Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test tests, GitLab**.
 
-Currently working on an international project in Capgemini as product support  and development.
+Currently working on an international project in Capgemini as Software Engineering Program.
 
 
  > - [Github](https://github.com/marisamiguel)
