@@ -67,6 +67,8 @@ Team leadership and work meetings
 
 Salesforce TrailMix
 
+June_2024 /Course Cibersecurity-Coursera /Capgemini
+
 
 > ##  EMPLOYMENT HISTORY
 
@@ -76,7 +78,7 @@ Salesforce TrailMix
  
 - **Software Engineering Prog**
   
-      March.2023 - currently 
+      March.2024 - currently 
 
   Work on an international project.
   

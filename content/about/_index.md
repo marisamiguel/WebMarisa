@@ -44,7 +44,7 @@ Tools:
 
 Salesforce developer learning path.
 
-Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test tests, GitLab**.
+Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex focused on data, Triggers, Test Apex Class, GitLab**.
 
 
  > - [Github](https://github.com/marisamiguel)

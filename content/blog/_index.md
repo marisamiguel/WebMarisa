@@ -64,11 +64,35 @@ Salesforce TrailMix
 
  ># EMPLOYMENT HISTORY
 
+> ##  EMPLOYMENT HISTORY
+
+>[Capgemini Spain](https://www.capgemini.com/es-es/)
+
+>   **Full time · currently , Barcelona - Spain**
+ 
+- **Software Engineering Prog**
+  
+      March.2024 - currently 
+
+  Work on an international project.
+  
+**Role and responsabilities**
+
+  · Designing, coding, and implementing Salesforce applications 
+
+  · Creating timelines and development goals
+
+  · Testing the stability and functionality of the application
+
+  · Troubleshooting and fixing bugs
+
+  · Writing documents and providing technical training to other team members
+
 [Accenture] (https://www.accenture.com/es-es)
 
 Accenture Spain
 
-Full time · 11 monthsFull time · 11 months
+ Sept. 2022 - March. 2024
 
 Zaragoza, Aragon, SpainZaragoza, Aragon, Spain
 
@@ -82,7 +106,7 @@ Product support · Apex development · SOQL / SOSL · DML · SFDX · DevOps · J
 
 Junior Salesforce Developer | CRM SalesforceJunior Salesforce Developer | CRM Salesforce
 
- mar. 2022 - present · 11 months
+ mar. 2022 - June. 2022
 
 Salesforce DeveloperSalesforce Developer
 Skills: Salesforce CRM · GitLab · SOSL · Testing · LWC · Apex Programming · SOQL · Development Salesforce.com · Salesforce.com · Web Application Development
