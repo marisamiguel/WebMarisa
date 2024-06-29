@@ -7,7 +7,6 @@ draft: false
 description: "Contact"
 
 # image
-image: "images/contact.png"
 # type
 type : "Contact"
 tags: ["E-mail", "Mobile", Contact"]
