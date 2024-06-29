@@ -8,6 +8,7 @@ image: "images/marisamiguel.png"
 
 # meta description
 description: "About me"
+
 categories:
   -  "CV" 
   
@@ -42,7 +43,7 @@ The most used databases based on their typology are:
 
 Tools: 
 
-> - **Dataloader, Workbench, Odaseva, Postman, Mulesoft, OneTrust,Google Analytics**
+> - **Dataloader, Workbench, Odaseva, Postman, Mulesoft, OneTrust,Google Analytics,Checkmarx**
 
 Salesforce developer learning path.
 
