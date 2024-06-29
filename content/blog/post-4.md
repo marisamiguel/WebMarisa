@@ -7,7 +7,7 @@ draft: false
 image: "images/gallery/1.png"
 
 # meta description
-description: "Desing and Web development"
+description: "Design and Web development"
 
 # taxonomies
 categories:

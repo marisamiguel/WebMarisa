@@ -12,9 +12,7 @@ series = []
 +++
 
 ![marisa](image/post/pro.png)
-![marisa](/static/image/MARTIN%20COCHES%201.jpg)
-![marisa](/static/imagen/bloom.png)
-![marisa](/static/image/engineers.png)
+
 
 
 
