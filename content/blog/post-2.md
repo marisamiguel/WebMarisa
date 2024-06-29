@@ -51,7 +51,7 @@ Last training and work done with Salesforce CRM as a traineer developer.
 
 Salesforce developer learning path.
 
-Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test tests, GitLab**.
+Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura Components, Apex programming language focused on data, Triggers, Test Apex Class, GitLab**.
 
 
  > ## CAREER
