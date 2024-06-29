@@ -4,10 +4,10 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/pro.png"
+image: "images/featured-post/pro.png"
 
 # meta description
-description: "Desing and Web development"
+description: "Design and Web development"
 
 # taxonomies
 categories:
