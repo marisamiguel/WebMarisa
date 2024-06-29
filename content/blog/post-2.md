@@ -15,8 +15,12 @@ categories:
 tags:
   - "Backend"
   - "Frontend"
+  - "Apex"
+  - "Oracle"
+  - "MySQL"
+  - "Java"
+  - "Python"
   
-
 # post type
 type: "post"
 ---
@@ -33,7 +37,7 @@ Knowledge of different types of technologies:
 
 > - **Frontend Technologies**: HTML Markup Language, CSS, preprocessors like LESS and frameworks like BOOSTRAP. JavaScript frameworks and libraries: in order to improve JavaScript development they would be: Angular.
 
-> - **Backend Technologies**: Languages: JavaScript. Frameworks: Django (Python), Wagtail.
+> - **Frameworks**: Languages: JavaScript. Frameworks: Django (Python), Wagtail.
 
 > - **Functional languages**: Java, Python ,Apex
 
@@ -43,7 +47,7 @@ The most used databases based on their typology are:
 
 > - **Relational**: MySQL, MariaDB, PostgreSQL, Oracle.
 
-Last training and work done with Salesforce CRM as a traineer developer for Accenture.
+Last training and work done with Salesforce CRM as a traineer developer.
 
 Salesforce developer learning path.
 
@@ -54,7 +58,7 @@ Knowledge acquired in the TrailMix among others: **Admin , Developer, LWC, Aura 
 
 2020 /CTA Training development of Web pages and HTML5 content Eurofor                                                
 
-2020 /CTA PHP Training Mysql.Eurofor                       
+2020 /CTA PHP Training Mysql                     
 
 Training and experience in Jquery programming and 
 Javascript
@@ -65,14 +69,16 @@ Team leadership and work meetings
 
 Salesforce TrailMix
 
+Postman Tool
+
+Checkmarx Tool
+
 June_2024 /Course Cibersecurity-Coursera /Capgemini
 
 
 > ##  EMPLOYMENT HISTORY
 
 >[Capgemini Spain](https://www.capgemini.com/es-es/)
-
->   **Full time · currently , Barcelona - Spain**
  
 - **Software Engineering Prog**
   
